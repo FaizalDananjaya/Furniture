@@ -1,0 +1,19 @@
+- [ ] Download and set up CodeIgniter 3 framework in project root
+- [ ] Configure database connection in CI config
+- [ ] Create MySQL database schema (users, products, stocks, orders, customers tables)
+- [ ] Move static assets (CSS, JS, images) to assets folder
+- [ ] Convert index.html to CI view and create Home controller
+- [ ] Update company information (PT Kayu Indah Perkasa) in views
+- [ ] Implement authentication system (login/logout with admin/staff roles)
+- [ ] Create admin dashboard controller and view
+- [ ] Add product management (CRUD) in admin panel
+- [ ] Make shop page dynamic with products from database
+- [ ] Implement cart functionality using sessions
+- [ ] Add checkout and order processing
+- [ ] Create customer management in admin
+- [ ] Add stock management features
+- [ ] Implement order management for admin
+- [ ] Integrate TCPDF for invoice generation
+- [ ] Add jQuery for enhanced interactivity
+- [ ] Ensure responsive design and add animations/transitions
+- [ ] Test the complete system with default users
